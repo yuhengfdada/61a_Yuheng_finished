@@ -4,9 +4,9 @@
 
 ## CS Challenge
 - [x] 61a
-- [] 61b
-- [] 6.null
-- [] 170
-- [] csapp
-- [] 162
-- [] More...
+- [ ] 61b
+- [ ] 6.null
+- [ ] 170
+- [ ] csapp
+- [ ] 162
+- [ ] More...
